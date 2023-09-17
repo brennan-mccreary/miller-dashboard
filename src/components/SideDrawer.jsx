@@ -55,9 +55,9 @@ const SideDrawer = () => {
       
 
     {/* **Implements button for clicking on desktop to open drawer, disabled to implement touch screen capabilities.** */}
-      {/* <Box sx={{ textAlign: 'center', pt: 1 }}>
+      <Box sx={{ textAlign: 'center', pt: 1 }}>
         <Button onClick={toggleDrawer(true)}>Open</Button>
-      </Box>  */}
+      </Box> 
       
      
       <SwipeableDrawer

@@ -3,7 +3,7 @@ import SideDrawer from "./SideDrawer";
 const Layout = ({ children }) => {
     return (
         <div>
-            <SideDrawer/>
+            {/* <SideDrawer/> */}
             <div>
                 {children}
             </div>
